@@ -1,0 +1,6 @@
+github.com/AlexandreChamard/go-algorithm v1.0.0 h1:s1n1oFHMle14p2xoRDKWCx0wY2uBb4qG1qCcSoq7vZs=
+github.com/AlexandreChamard/go-algorithm v1.0.0/go.mod h1:IBRSMtKJp2Zv24RfU5QrHzXSJ4j8WHR/UtrNhV31paQ=
+github.com/AlexandreChamard/go-builtin v1.0.0 h1:twZ307vemIGP/rxoLnqVOGSROHa5//RHoTeBmiPMn/g=
+github.com/AlexandreChamard/go-builtin v1.0.0/go.mod h1:CMU0VYPA7HD2AXQ8LOidQfkoTij628GPPiRnln5GIuc=
+github.com/AlexandreChamard/go-priorityqueue v1.0.0 h1:N0pZ20S1mProMALcEof0rGG+dgC44xnCb4EAcn7uqWo=
+github.com/AlexandreChamard/go-priorityqueue v1.0.0/go.mod h1:oUqe/TsRjHZ5q1+AlM0jd3DgU+WWGCt943bxHdZtOl4=
